@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KD_Coroutine", "KD_Coroutine\KD_Coroutine.vcxproj", "{30F2C974-CC92-4FBC-A9B0-1B7149FBA93F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestTechnology", "TestTechnology\TestTechnology.vcxproj", "{DA542789-323B-40C2-85FA-C8257F05FE53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F2C974-CC92-4FBC-A9B0-1B7149FBA93F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30F2C974-CC92-4FBC-A9B0-1B7149FBA93F}.Debug|Win32.Build.0 = Debug|Win32
+		{30F2C974-CC92-4FBC-A9B0-1B7149FBA93F}.Release|Win32.ActiveCfg = Release|Win32
+		{30F2C974-CC92-4FBC-A9B0-1B7149FBA93F}.Release|Win32.Build.0 = Release|Win32
+		{DA542789-323B-40C2-85FA-C8257F05FE53}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA542789-323B-40C2-85FA-C8257F05FE53}.Debug|Win32.Build.0 = Debug|Win32
+		{DA542789-323B-40C2-85FA-C8257F05FE53}.Release|Win32.ActiveCfg = Release|Win32
+		{DA542789-323B-40C2-85FA-C8257F05FE53}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
